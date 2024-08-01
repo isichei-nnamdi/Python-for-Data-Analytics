@@ -59,7 +59,7 @@ You can use this dataset for various data analysis tasks, including but not limi
 
 ## License
 
-This dataset is licensed under the [MIT License](LICENSE).
+This dataset is licensed under the [GPL-3.0 license](LICENSE).
 
 ## Contact
 
